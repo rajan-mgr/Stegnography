@@ -52,11 +52,6 @@ For Linux/macOS users:
 
 sudo apt install ffmpeg
 
-3️⃣ Clone the Repository
-
-git clone https://github.com/yourusername/steganography-tool.git
-cd steganography-tool
-
 4️⃣ Run the Application
 
 python main.py
